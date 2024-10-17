@@ -27,6 +27,10 @@
   "dependencies": {
     "@testing-library/dom": "^9.3.4",
     "happy-dom": "^13.2.1",
-    "vitest": "^1.2.1"
+    "vitest": "^1.2.1",
+    "chai": "^4.2.0",
+    "jsdom": "^9.0",
+    "mocha": "5.2.0",
+    "mocha-jsdom": "~1.1.0"
   }
 }
